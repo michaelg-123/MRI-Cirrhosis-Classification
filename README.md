@@ -16,19 +16,19 @@ Please note that this dataset is not owned by me and was used strictly for acade
 
 This project applies machine learning techniques to classify stages of liver cirrhosis using radiomic features extracted from T1- and T2-weighted MRI scans. Built as part of a graduate-level machine learning course at Northwestern University.
 
-## 🧠 Project Highlights
+## Project Highlights
 - Radiomic feature extraction using PyRadiomics
 - Machine learning classification including tree-based methods and feed-forward neural networks
 - Dataset: CIRRMRI600+
 
-## 🗂️ Project Structure
+## Project Structure
 - `notebooks/`: Jupyter notebooks for feature extraction and model training
 - `data/`: Feature CSVs used for training/testing
 - `images/`: Sample MRI slices and corresponding segmentation masks
 - `metadata/`: Patient metadata and label files
 - `results/`: Evaluation metrics and figures
 
-## 🛠️ Requirements
+## Requirements
 - Python 3.8+
 - scikit-learn
 - numpy, pandas

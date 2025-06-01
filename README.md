@@ -1,6 +1,6 @@
 # MRI-Cirrhosis-Classification
 
-This project uses the CirrMRI600+ dataset, which includes T1- and T2-weighted liver MRI scans and corresponding segmentations for radiomics-based cirrhosis classification. The dataset was developed and released by Northwestern's Bagci Lab.
+This project uses the CirrMRI600+ dataset, which includes T1- and T2-weighted liver MRI scans and corresponding segmentations masks. The dataset was developed and released by Northwestern's Bagci Lab.
 
 Download Link: https://osf.io/cuk24/
 
@@ -26,9 +26,8 @@ This project applies machine learning techniques to classify stages of liver cir
 ## Project Structure
 - `notebooks/`: Jupyter notebooks for feature extraction and model training
 - `data/`: Feature CSVs used for training/testing
-- `images/`: Sample MRI slices and corresponding segmentation masks
+- `sample_images/`: sample images for demo. Full CirrMRI600+ dataset [[https://osf.io/cuk24/](https://osf.io/cuk24/)
 - `metadata/`: Patient metadata and label files
-- `results/`: Evaluation metrics and figures
 
 ## Requirements
 - Python 3.8+

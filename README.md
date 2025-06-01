@@ -28,8 +28,8 @@ This project applies machine learning techniques to classify stages of liver cir
 - `data/`: Feature CSVs used for training/testing
 - `sample_images/`: sample images for demo. Full CirrMRI600+ dataset [[https://osf.io/cuk24/](https://osf.io/cuk24/)
 - `metadata/`: Patient metadata and label files
-- `Final_Presentation.mp4/`: 15-min video presentation
-- `PresentationSlides.pptx/`: final presentation slide deck
+- `Final_Presentation.mp4/`: 15-min video presentation: [Download Presentation Video](presentation/Final_Presentation.mp4)
+- `PresentationSlides.pptx/`: final presentation slide deck [`Download slides`](presentation/Final_Project_Presentation.pptx)  
 
 ## Requirements
 - Python 3.8+
@@ -37,4 +37,3 @@ This project applies machine learning techniques to classify stages of liver cir
 - numpy, pandas
 - PyRadiomics
 - matplotlib, seaborn
-
